@@ -1,0 +1,1 @@
+Segment each component in the image and highlight the barcode using image preprocessing techniques. Build a function from scratch rather using any existing method for barcode highlighting.

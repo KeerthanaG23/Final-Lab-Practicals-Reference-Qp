@@ -1,0 +1,3 @@
+1. Given the sudoku image, Apply edge detection to segment the boxes.
+
+2. Apply appropriate image processing techniques to highligh the numbers.

@@ -1,0 +1,9 @@
+1. Consider given image, generate noisy images by adding Uniform, Gaussian, Salt and pepper noise to an input image. Observe the performance of smoothing filters in the spatial domain.
+
+a. Apply suitable filtering techniques to improve the contrast of the images.
+
+b. Generate a histogram of the image and observe how the intensity values are distributed
+
+c. Apply histogram equalization and matching
+
+2. Extract SIFT or SURF features from an image and visualize them. 

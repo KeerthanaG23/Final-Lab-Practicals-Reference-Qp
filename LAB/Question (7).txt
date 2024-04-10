@@ -1,0 +1,2 @@
+Perform thresholding on a grayscale image to separate the foreground from the background. Experiment with different threshold values and methods (e.g., global vs. adaptive thresholding).
+Implement k-means clustering for color image segmentation. Discuss how the number of clusters affects the segmentation outcome.

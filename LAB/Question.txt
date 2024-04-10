@@ -1,0 +1,7 @@
+Consider the given image, try to enhance the image using preprocessing techniques. Perform the following operations.
+
+a. Apply suitable filtering techniques to improve the contrast of the images.
+
+b. Generate a histogram of the image and observe how the intensity values are distributed
+
+c. Apply histogram equalization and matching

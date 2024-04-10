@@ -1,0 +1,4 @@
+QUESTION:
+
+Given a Hematoxylin and Eosin stained image as image.png and the corresponding output expected is given as image_gt.png. Your task is to highlight the nuclei as given in the image_gt.png.
+Apply necessary image preprocessing techniques to obtain the expected output.

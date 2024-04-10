@@ -1,0 +1,1 @@
+Given the Sudoku image try to extract the numbers or highlight them using the appropriate image processing methods.
