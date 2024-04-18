@@ -1,0 +1,1 @@
+Given the eye image and the corresponding output expected mask is given. Your task is to highlight the vessel extraction in the image as the mask. Apply necessary image preprocessing techniques to obtain the expected output.
